@@ -1,0 +1,19 @@
+// 3D TV 
+$dark: #24283b;
+$purple: #800080;
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-image: linear-gradient(to bottom right, $dark, $purple);
+}
+
+.scene,
+canvas {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+// by Gesty Linaga

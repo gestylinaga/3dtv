@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tv Free 3D Model
+* source:	https://sketchfab.com/3d-models/tv-free-3d-model-a2661c6aba3c41f39e58f85a447168b9
+* author:	Pixel (https://sketchfab.com/stefan.lengyel1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tv Free 3D Model" (https://sketchfab.com/3d-models/tv-free-3d-model-a2661c6aba3c41f39e58f85a447168b9) by Pixel (https://sketchfab.com/stefan.lengyel1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
